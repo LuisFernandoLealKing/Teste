@@ -6,7 +6,8 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Mundo!");
+            Console.WriteLine("Olá Mundo!!");
+            Console.WriteLine("Adicionada mais uma linha!");
         }
     }
 }
